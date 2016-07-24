@@ -1,0 +1,24 @@
+{
+  "name": "geodistance",
+  "version": "1.0.0",
+  "description": "compute the distance between 2 geo points.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magicly/geodistance.git"
+  },
+  "keywords": [
+    "geo",
+    "lat",
+    "lng"
+  ],
+  "author": "magicly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/magicly/geodistance/issues"
+  },
+  "homepage": "https://github.com/magicly/geodistance#readme"
+}
